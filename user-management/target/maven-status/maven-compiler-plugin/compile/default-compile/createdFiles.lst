@@ -1,0 +1,10 @@
+com\user\management\Dto\DonorResponseDto$DonorResponseDtoBuilder.class
+com\user\management\Dto\DonorResponseDto.class
+com\user\management\Service\UserService.class
+com\user\management\Dto\UserRegistrationDto.class
+com\user\management\UserManagement.class
+com\user\management\Entity\UserRegistration$UserRegistrationBuilder.class
+com\user\management\Repository\UserRepository.class
+com\user\management\Entity\UserRegistration.class
+com\user\management\Controller\Contoller.class
+com\user\management\Dto\UserRegistrationDto$UserRegistrationDtoBuilder.class
