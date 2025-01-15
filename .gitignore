@@ -1,0 +1,7 @@
+# Ignore application.properties in specific directories
+donor-management/src/main/resources/application.properties
+request-management/src/main/resources/application.properties
+user-management/src/main/resources/application.properties
+
+# Or, to ignore all application.properties files in any directory
+**/application.properties
